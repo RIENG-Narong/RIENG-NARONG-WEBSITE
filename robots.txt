@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://riengnarong.vercel.app/sitemap.xml
+
+# If you need to block staging or private folders, add them below, for example:
+# Disallow: /admin/
+# Disallow: /private/
